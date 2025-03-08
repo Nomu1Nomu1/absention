@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333631013105",
+    "project_id": "absention-ae2c7",
+    "storage_bucket": "absention-ae2c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333631013105:android:69bbb0c332e5c2f8fa6950",
+        "android_client_info": {
+          "package_name": "com.example.absention"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkrL2Q0_tZS-AysLEmhLu_AfY9DnqZNLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
